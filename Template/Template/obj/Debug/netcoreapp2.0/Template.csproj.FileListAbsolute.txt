@@ -2,3 +2,10 @@ C:\src\coretemplate2\Template\Template\obj\Debug\netcoreapp2.0\Template.csprojRe
 C:\src\coretemplate2\Template\Template\obj\Debug\netcoreapp2.0\Template.csproj.CoreCompileInputs.cache
 C:\src\coretemplate2\Template\Template\obj\Debug\netcoreapp2.0\Template.AssemblyInfoInputs.cache
 C:\src\coretemplate2\Template\Template\obj\Debug\netcoreapp2.0\Template.AssemblyInfo.cs
+C:\src\coretemplate2\Template\Template\bin\Debug\netcoreapp2.0\Template.deps.json
+C:\src\coretemplate2\Template\Template\bin\Debug\netcoreapp2.0\Template.runtimeconfig.json
+C:\src\coretemplate2\Template\Template\bin\Debug\netcoreapp2.0\Template.runtimeconfig.dev.json
+C:\src\coretemplate2\Template\Template\bin\Debug\netcoreapp2.0\Template.dll
+C:\src\coretemplate2\Template\Template\bin\Debug\netcoreapp2.0\Template.pdb
+C:\src\coretemplate2\Template\Template\obj\Debug\netcoreapp2.0\Template.dll
+C:\src\coretemplate2\Template\Template\obj\Debug\netcoreapp2.0\Template.pdb
