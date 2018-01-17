@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="Features\Home\Handlers\" />
-    <Folder Include="Features\Home\Hypermedia\" />
     <Folder Include="Features\Signin\Handlers\" />
     <Folder Include="Features\Signin\Hypermedia\" />
     <Folder Include="wwwroot\" />
